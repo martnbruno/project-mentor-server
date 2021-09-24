@@ -1,7 +1,7 @@
 {
   "name": "mern-project-manager-server",
   "version": "1.0.0",
-  "description": "Mern API for MernTasks",
+  "description": "MERN API for Project Mentor",
   "main": "index.js",
   "scripts": {
     "start": "node .",
